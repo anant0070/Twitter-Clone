@@ -25,7 +25,7 @@ const Post=forwardRef(({
                     <h3>
                         {displayName} {" "}
                     <span className='post_headerSpecial'>
-                    {verified && <MdVerifiedUser className='post_badge'/>}@{userName}
+                    {verified && <MdVerifiedUser className='post_badge inline-block'/>}@{userName}
                     </span>
                     </h3>
                 </div>
