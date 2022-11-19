@@ -19,7 +19,7 @@ function Widgets() {
         <TwitterTimelineEmbed 
         sourceType='profile'
         screenName='PrimeVideoIN'
-        options={{height:600}}/>
+        options={{height:580}}/>
          <TwitterShareButton
           url={"https://www.facebook.com/PrimeVideoIN/"}
           options={{ text: "#mirzapur kb aaega", via: "PrimeVideoIN" }}
